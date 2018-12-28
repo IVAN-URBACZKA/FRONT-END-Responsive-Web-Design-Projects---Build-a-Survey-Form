@@ -15,6 +15,7 @@ form{
     flex-direction: column;
     align-items: center;
     line-height: 2;
+    font-size:14px;
 }
 
 .vertical{
@@ -26,8 +27,8 @@ form{
 #bulle
 {
     background-color:white;
-    width: 50%;
-    border-radius: 31%;
+    width: 100%;
+    
     margin: auto;
 }
 
@@ -35,4 +36,24 @@ form{
     margin-top: 10px;
     margin-bottom: 10px;
   
+}
+
+@media (min-width :768px){
+
+    #bulle{
+       width: 80%;
+    }
+
+}
+
+@media (min-width :1024px){
+
+    #bulle{
+       width: 80%;
+    }
+
+    form{
+        font-size: 16px;
+    }
+
 }
