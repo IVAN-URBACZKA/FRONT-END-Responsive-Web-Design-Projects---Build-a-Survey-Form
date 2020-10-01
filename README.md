@@ -20,7 +20,7 @@ Responsive Web Design Projects - Build a Survey Form
 
 ##### User Story #5: Inside the form element, I am required to enter an email in a field with id="email".
 
-##### User Story #6: If I enter an email that is not formatted correctly, I will see an HTML5 validation error.
+##### User Story #6: If I enter an email that is not formatted correctly, I will see the HTML5 validation error.
 
 ##### User Story #7: Inside the form, I can enter a number in a field with id="number".
 
